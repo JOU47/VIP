@@ -1,0 +1,1505 @@
+vip_scroll@Message from the Scarlet Angels
+chef_recipes_book@Camp Cookbook
+spell_summon_turkey_boss_ghost@Scroll of Summoning the Turkey Boss Ghost
+spell_summon_4@Scroll of Summoning the Undead Lvl 4
+spell_summon_3@Scroll of Summoning the Undead Lvl 3
+spell_summon_2@Scroll of Summoning the Undead Lvl 2
+spell_summon@Scroll of Summoning the Undead Lvl 1
+spell_control3@Scroll of Control Lvl 3
+spell_control2@Scroll of Control Lvl 2
+spell_control@Scroll of Control Lvl 1
+spell_look_around_3@Scroll of Eye of the Raven Lvl 3
+spell_look_around_2@Scroll of Eye of the Raven Lvl 2
+spell_look_around_1@Scroll of Eye of the Raven Lvl 1
+spell_massacre@Scroll of Carnage
+spell_lightning@Scroll of Divine Retribution
+spell_freeze@Scroll of Freezing
+spell_expel@Edict of Exile
+spell_fear@Scroll of Terror
+spell_rain@Scroll of Rain
+spell_clan@Order Edict
+spell_heal_4@Scroll of Healing Lvl 4
+spell_heal_3@Scroll of Healing Lvl 3
+spell_heal_2@Scroll of Healing Lvl 2
+spell_heal@Scroll of Healing Lvl 1
+potion_energy@Vigor Potion
+potion_revive@St. Peter's Tincture
+potion_luck@Potion of Luck
+monk_tincture@Monastery Tincture
+mandrake_tincture@Mandrake Tincture
+tincture@Bitter Tincture
+fabric@Bandage
+potion_fearlessness@Tincture of Valor
+potion_stone_form@Petrification Potion
+potion_stunlessness@Potion of Mental Clarity
+potion_mushroom_sweet@Sweet Mushroom Tincture
+potion_mushroom@Mushroom Infusion
+potion_night_vision@Cat Eye Potion
+potion_night_vision_2@Large Cat Eye Potion
+potion_cloak@Stealth Potion
+potion_focus@Concentration Potion
+protective_ointment_2@Persistent Salve
+protective_ointment@Defensive Salve
+potion_fear@
+mead@Mead
+meat_stew@Meat Stew a la Lubenia
+turkey_with_leek@Turkey with Vegetables
+leek_rings@Onion Rings
+pottage_north@Northern Soup
+wine@Spiced Wine
+berry_tea@Berry Tea
+consomme_with_leek@Onion Consommé
+soul_cake@Soul Cake
+xmas_pudding@Plum Pudding
+seeds_roast@Fried Seeds
+sweet_pie@Sweet Pie
+barrel_honey@Barrel of Honey
+rice_cake@Rice Muffin
+pottage_mushroom@Mushroom Soup
+baked_pumpkin@Baked Pumpkin
+turkey_roast@Roasted Turkey
+porridge_poison@Berry Porridge
+beer@Ale
+candy_apple@Candy Apple
+meat_jerky@Jerky
+mandrake@Mandrake Root
+xmas_cookie@Gingerbread Cookies
+pottage@Leek Soup
+meat_roast@Roasted Meat
+leek_roasted@Fried Leek
+berry_drink@Berry Drink
+xmas_candy@Candy Cane
+pumpkin@Pumpkin
+leek@Leek
+rice@Rice
+sugar_skull@Sugar Skull
+turkey@Turkey
+soured_milk@Sour Milk
+mushroom@Gypsy Mushroom
+mushroom_poison@Grave Mushroom
+mushroom_amanita@Amanita
+berry@Hawberries
+berry_poison@Hollyberries
+meat_raw@Raw Meat
+flask_water@Flask of Water
+yuck@Something Nasty
+inventory_gacha_research@Design Case
+inventory_gacha_book_pool_1@Mysterious Volume #1
+inventory_gacha_book@Mysterious Tome
+inventory_gacha_weapon_legendary@Legendary Weapon Chest
+inventory_gacha_weapon_unique@Unique Weapon Chest
+inventory_gacha_weapon_rare@Rare Weapon Chest
+inventory_gacha_weapon_common@Weapon Chest
+inventory_gacha_talisman_legendary@Box with Legendary Talisman
+inventory_gacha_talisman_unique@Box with Unique Talisman
+inventory_gacha_talisman_rare@Box with Rare Talisman
+inventory_gacha_talisman_common@Box with Talisman
+inventory_gacha_fire_armor@Frost Reliquary
+inventory_gacha_freeze_armor@Northern Wolf Reliquary
+inventory_gacha_blight_armor@Purity Reliquary
+inventory_gacha_piligrim_set@Pilgrim's Case
+bomb@Powder bomb
+powder_barrel@Powder Keg
+powder_charge@Powder Charge
+gold_alch@Alchemical Gold
+token_angel@Scarlet Angels Insignia
+dog_of_war@War Dogs Insignia
+bone_powder@Bone Powder
+relic_fragment@Order Relic
+ancient_sepulchre_coins@Ghost King Coin
+xmas_bijou@Christmas Tree Ornaments
+xmas_wreath@Christmas Wreath
+xmas_amulet@Winter Talisman
+xmas_toy@Christmas Tree Ornament
+xmas_lantern@Christmas Lantern
+filth@Corruption Sample
+raven_feather@Raven Feathers
+moonflower@Moonflower
+cinnabar@Cinnabar
+turkey_feather@Turkey Feather
+xmas_socks@Holiday Stocking
+rupert_drop@Knight Rupert's Drops
+grind_oil_2@High Quality Weapon Oil
+grind_oil@Weapon Oil
+grenade_poison@Throwing Potion
+grenade_freeze@Freezing Potion
+grenade_pumpkin@Pumpkin Bomb
+token_harat@Harat Token
+token_plague@Plague God Token
+token_nameless@Nameless God Token
+xmas_gift_big@Large Present
+xmas_gift_medium@Medium Present
+xmas_gift_small@Small Present
+beartrap@Trap
+beartrap_copper@Copper Trap
+runetrap_fire@Fire Rune
+runetrap_freeze@Ice Rune
+key_cheat@Key to All Doors
+plan_a@Dungeon of the Forsaken Map
+plan_b@Dungeon of the Torturers Map
+plan_boss_01@Gatekeeper's Hut Map
+plan_temple@Underground Shrine Map
+event_map_unique@
+event_map_rare@
+event_map_unknown@
+tube_legendary@Legendary Map Case
+tube_unique@Unique Map Case
+tube_rare@Rare Map Case
+tube_normal@Map Case
+event_map_sacrificial_altar@Sacrificial Altar Map
+event_map_big_hermit_storage@Large Forsaken Cache Map
+event_map_small_hermit_storage@Forsaken Cache Map
+event_map_tiny_hermit_storage@Small Forsaken Cache Map
+event_map_virbjorn_lair@Virbjorn's Lair Map
+event_map_warlock_lair@Necromancer's Lair Map
+event_map_death_labyrinth@Barbarian Camp Map
+event_map_converter@Dark Offering Map
+event_map_anniversary_ground@Abandoned Crypt Map
+event_map_hunting_grounds@Hunting Grounds Map
+event_map_pasture@Pasture Map
+event_map_convoy@Merchant Escort Map
+event_map_cemetery@Night at the Cemetery Map
+event_map_trader@Wandering Merchants Map
+event_map_deadman@Fallen Knight Map
+event_map_td.chest.location@Treasure of the Damned Map
+event_map_waggon@Broken Cart Map
+event_map_burned_village@Dead Village Map
+event_map_hermit_hut@Forsaken Hermit's Hut Map
+event_map_sacrificial_altar_piece@Sacrificial Altar Map Fragment
+event_map_big_hermit_storage_piece@Large Forsaken Cache Map Fragment
+event_map_small_hermit_storage_piece@Forsaken Cache Map Fragment
+event_map_tiny_hermit_storage_piece@Small Forsaken Cache Map Fragment
+event_map_unknown_unique_piece@Unique Unknown Map Fragment
+event_map_unknown_rare_piece@Rare Unknown Map Fragment
+event_map_unknown_piece@Unknown Map Fragment
+plan@Province Map
+plan_anniversary@Abandoned Crypt Map
+plan_normal@2 Skull Location Map
+plan_hard@3 Skull Location Map
+leek_seeds@Leek Seeds
+rice_seeds@Rice Seeds
+pumpkin_seeds@Pumpkin Seeds
+mandrake_seeds@Mandrake Seeds
+oat_seeds@Oat Seeds
+beech_wood@Beech Wood
+oak_wood@Oak Log
+birch_wood@Birch Log
+wood@Pine Log
+meteor_ore@Meteoric Iron
+iron_ore@Iron Ore
+tin_ore@Tin
+copper_ore@Copper Ore
+fiber@Flax Fiber
+pelt@Animal Hide
+stone@Limestone
+oat@Oats
+oak_board@Oak Plank
+birch_board@Birch Plank
+board@Pine Plank
+meteor_ingot@Meteoric Ingot
+steel_ingot@Steel Ingot
+iron_ingot@Iron Ingot
+bronze_ingot@Bronze Ingot
+copper_ingot@Copper Ingot
+nails@Bronze Nails
+spirit@Spirit
+rope@Rope
+cloth@Cloth
+cloth_thick@Thick Cloth
+leather@Leather
+straps@Cords
+stone_block@Stone Block
+wooden_horse@Wooden Horse
+true_silver@Truesilver
+priestess_ashes@Shobol's Ashes
+ancient_plate@Ancient Plate
+leather_magic@Enchanted Leather
+tempered_rivet@Hardened Rivet
+staple@Staples
+mech@Mechanism
+aissa_drop@Aissa's Tears
+powder@Black Powder
+coal@Coal
+sulfur@Sulfur
+saltpetre@Saltpeter
+incense@Incense
+strong_bowstring@Quality Bowstring
+bowstring@Bowstring
+iron_debris@Iron Shards
+iron_plate@Iron Plate
+copper_debris@Copper Shards
+lattice@Grate
+chain@Chain
+wire@Wire
+soulshard@Soul Shards
+flask_empty@Empty Flask
+barrel_empty@Empty Barrel
+spirit_empty@Empty Vial
+petwolf_adult_epic_violet@Direwolf
+petwolf_adult_epic_hw@Direwolf
+petwolf_adult_epic_xmas@Direwolf
+petwolf_adult_epic@Direwolf
+petwolf_adult@Direwolf
+petwolf_adult1@Direwolf
+babywolf_green_halloween@A unique ghost wolfling
+babywolf_yellow_halloween@A unique ghost wolfling
+babywolf_black_halloween@A unique ghost wolfling
+babywolf_violet_halloween@A unique ghost wolfling
+babywolf_blue_halloween@A unique ghost wolfling
+babywolf_turquoise_halloween@A unique ghost wolfling
+petwolf_xmas_cerulean@Unique winter wolfling
+petwolf_xmas_turquoise@Unique winter wolfling
+petwolf_xmas_lavender@Unique winter wolfling
+babywolf_unique@Basket with Direwolfling
+babywolf_black_unique@Basket with Direwolfling
+babywolf_white_unique@Basket with Direwolfling
+babywolf_rnd1@Basket with Direwolfling
+babywolf_rare_male@Basket with Direwolfling
+babywolf_rare_female@Basket with Direwolfling
+babywolf_converter@Basket with Direwolfling
+babywolf@Basket with Direwolfling
+babywolf_rnd@Basket with Direwolfling
+babywolf_male@Basket with Direwolfling
+babywolf_female@Basket with Direwolfling
+petcat_adult@Cat
+petcat_adult1@Cat
+babycat_unique@Basket with Kitten
+babycat_unique1@Basket with Kitten
+babycat_unique2@Basket with Kitten
+babycat_rnd1@Basket with Kitten
+babycat_rare@Basket with Kitten
+babycat_rnd@Basket with Kitten
+babycat@Basket with Kitten
+babycat_green_halloween@Unique Ghost Kitten
+babycat_yellow_halloween@Unique Ghost Kitten
+babycat_black_halloween@Unique Ghost Kitten
+babycat_violet_halloween@Unique Ghost Kitten
+babycat_blue_halloween@Unique Ghost Kitten
+babycat_turquoise_halloween@Unique Ghost Kitten
+babycat_cerulean_xmas@Unique Winter Kitten
+babycat_turquoise_xmas@Unique Winter Kitten
+babycat_lavender_xmas@Unique Winter Kitten
+pet_food_heart@Beast's Heart
+pet_food_alchemy@Bone
+pet_food@Wolf Treats
+cat_food_milk@Bowl of Milk
+cat_food@Cat Treats
+karn_head@Karn's Head
+cursed_lady_head@Vragna's Head
+aissa_head@Aissa's Head
+halt_head@Halt's Head
+harid_head@Harid's Helm
+rogvold_head@Rogvold's Head
+eisenhorn_head@Eisenborg's Head
+tiller@Tiller
+mast@Mast
+yard@Yard
+sail@Sailcloth
+vat@Smelting Pot
+waggon_barrel@Roomy Barrel
+compass@Compass
+sextant@Sextant
+ph_stone@Philosopher's Stone
+cushion@Cat Pillow
+training_mannequin@Training Dummy
+gutter@Casting Channel
+iron_shaft@Iron Grinder
+holy_writ@Book of Fate
+nameless_writ@Book of the Dead
+betrayer_blood@Blood of Traitors
+horse_bridle@Bridle
+horse_feeder@Feeding Trough
+waggon_axle@Cart Axle
+altar_mid@Altar core
+scales@Scales
+pestle@Mortar and Pestle
+vise@Vise
+acid@Acid Solution
+awl@Awl
+waxed_thread@Waxed Thread
+anvil@Anvil
+chisel@Chisel
+globe@Globe
+spyglass@Spyglass
+waggon_harness@Traces
+waggon_bow@Shaft Bow
+heretics_fork@Heretic's Fork
+tools_rack@Tool Kit
+mask_iron@Scold's Bridle
+bellows@Bellows
+retort@Retort
+pet_collar@Collar
+pilers@Pincers
+bracelet@Spiked Bracelet
+clip@Clamp
+handle@Handle
+grinding_wheel@Grinding Wheel
+saddle@Saddle
+waggon_wheel@Wheel
+altar_left@Left Altar Plate
+altar_right@Right Altar plate
+weapon_holder@Holder
+mallet@Mallet
+needle_set@Needle Set
+scratching_post@Cat Scratcher
+parchment@Clean Parchment
+bell@Prayer Bell
+knee_crusher@Knee Splitter
+mold@Mold
+ticks@Heat-proof Steel Tongs
+jointer@Carpenter's Plane
+handsaw@Handsaw
+underbottom@Drip Pan
+wedge@Wedge
+wood_magic@Enchanted Lumber
+iron_magic@Enchanted Iron
+candle@Candle
+junk_hourglass@Hourglass
+junk_fibula@Fibula
+junk_ring@Ring
+junk_skull@Skull
+junk_comb@Comb
+junk_mirror@Mirror
+junk_spoon@Spoon
+junk_fork@Fork
+junk_lock@Lock
+junk_tusk@Direwolf Fang
+junk_goblet@Chalice
+key_claus_trade_large@Large Christmas Key
+key_claus_trade_medium@Medium Christmas Key
+key_claus_trade_small@Small Christmas Key
+key_enemy_chest@Key to the chest at the castle of {0}
+key_td@Key to the chest
+key_dungeon_01@Key to the Dungeon of the Forsaken
+key_dungeon_02@Dungeon of the Torturers Key
+key_eisenhorn_chest@Key to Eisenborg's Chest
+key_task107@Cart Key
+key_castle_chest@Key to the Sinister Citadel Chest
+key_task407_2_5@Door Key
+key_puzzle@Bone Key
+key_watchtower@Ключ Сторожевой башни
+key_forgotten_cemetery_chest@Summoner's Key
+gift_key_bronze@Exile's Key
+gift_key_silver@Knight's Key
+gift_key_gold@Aristocrat's Key
+key_ancient_sepulchre@Ghostly Key
+research_kennel_3@Pen Design Lvl 4
+research_kennel_2@Pen Design Lvl 3
+research_kennel_1@Pen Design Lvl 2
+research_kennel_cat_3@Cat House Design Lvl 4
+research_kennel_cat_2@Cat House Design Lvl 3
+research_kennel_cat_1@Cat House Design Lvl 2
+research_altar_3@Altar Upgrade Design lvl 4
+research_altar_2@Altar Upgrade Design lvl 3
+research_altar@Altar Upgrade Design lvl 2
+research_workbench_wood_1@Carpenter's Bench Design Lvl 2
+research_workbench_mapmaker_3@Cartographer's Table Design Lvl 4
+research_workbench_mapmaker_2@Cartographer's Table Design Lvl 3
+research_workbench_mapmaker_1@Cartographer's Table Design Lvl 2
+research_workbench_armor_3@Armorer's Repair Table Design Lvl 4
+research_workbench_armor_2@Armorer's Repair Table Design Lvl 3
+research_workbench_armor_1@Armorer's Repair Table Design Lvl 2
+research_workbench_weapon_3@Bladesmith's Repair Table Design Lvl 4
+research_workbench_weapon_2@Bladesmith's Repair Table Design Lvl 3
+research_workbench_weapon_1@Bladesmith's Repair Table Design Lvl 2
+research_workbench_stone_1@Stone-working Bench Design Lvl 2
+research_furnace_1@Smelter Design Lvl 2
+research_waggon_3@Wagon Design Lvl 4
+research_waggon_2@Wagon Design Lvl 3
+research_waggon_1@Wagon Design Lvl 2
+research_chest_shared_3@Enchanted Chest Design Lvl 4
+research_chest_shared_2@Enchanted Chest Design Lvl 3
+research_chest_shared_1@Enchanted Chest Design Lvl 2
+tattoo_01@Floral Guest
+tattoo_02@Kind Heart
+tattoo_03@Spider
+tattoo_04@Smiler
+tattoo_05@Scout
+tattoo_06@Shaman
+tattoo_07@Chieftain
+tattoo_08@Outlander
+tattoo_09@Plague Hound
+tattoo_10@Child of the Forests
+tattoo_11@Savage
+tattoo_12@Cleansed
+test_item_1@
+card_1@Card swap
+card_2@Second card swap
+poker_level_reward_1@Lvl 3 Skill book or higher
+poker_level_reward_2@Expert Mastery
+battlepass_mainchest_small@Rookie Hunter's Treasure Trove
+battlepass_mainchest_medium@Veteran Hunter's Treasure Trove
+battlepass_mainchest_big@Master Hunter's Treasure Trove
+book@Double Experience for 1 day
+fake_berry@Вerries
+altar_tip@Heroic Forsaken Dungeon
+donut@Thalers
+horse_fake@Wild horses
+catacomb_marker@
+xmas_buff_event_charge_speedup@Christmas celebration: Events
+xmas_buff_energy_charge_speedup@Christmas celebration: Vigor
+xmas_buff_claus_loot@Commander Claus vs. Plague Santa: Weapon
+xmas_buff_claus_hp@Commander Claus vs. Plague Santa: Health
+xmas_buff_claus_poison_resist@Commander Claus vs. Plague Santa: Immunity
+xmas_buff_xmas_bags_minimap@Frozen Treasures: Instinct
+xmas_buff_xmas_bags_radius@Frozen Treasures: Lock Picker
+xmas_buff_xmas_bags_evade@Frozen Treasures: Evasion
+xmas_buff_xmas_deer_armor@Christmas Cart: Protection
+xmas_buff_xmas_deer_hp@Christmas Cart: Regeneration
+xmas_buff_xmas_shepherd_traps@Reindeer Pasture: Disarming
+xmas_buff_xmas_shepherd_evade@Reindeer Pasture: Grace
+greatsword_blight@Blade of Rampant Decay
+mace_blight_2h@Insatiable Mace
+knuckles_blight@Daughter of Decay's Claws
+flaming_flamberg@Golden Guard Flamberge
+flaming_hammer@Inquisitor's Kiss
+flaming_halberd@Flaming Halberd
+flaming_partisan@Fire Partisan
+glaive_frost@Freeze Wing
+halberd_frost@Ice Halberd
+scythe_frost@Ice Scythe
+ghost_king_sword@Ghost King Blade
+trident_poison@Spiked Trident
+spear_crit@Chosen Guard's Spear
+nagamaki@Reaper's Ceremonial Sword
+watcher_sword@Sinister Gaze Blade
+throw_axe_black@Black Bloodhounds
+throw_axe@Bloodhounds
+bone_sword@Bloodthirsty
+black_flamberg@Black Flamberge
+glaive_black@Black Glaive
+glaive@Glaive
+axe_torture_black@Black Slaughter Poleaxe
+axe_torture@Slaughter Poleaxe
+axe_war@War Dogs Axe
+axe_squealing@Shrieking Axe
+axe_master_black@Master's Black Axe
+axe_master@Master's Axe
+guisarme@Executioner's Hook
+scythe_moon@Silver Moon Sickle
+scythe@Scythe of Terror
+scythe_fire@Ritual Scythe
+dawn_blades@Simoom Blades
+claymore_silver@Silver Claymore
+bastard_iron@Iron Bastard Sword
+sword_emperor@Imperial Blade
+templar_sword@Templar Sword
+smasher@The Smasher
+mace_fist@Wrath of the Gods
+nguest_sickle@Night Guest's Sickle
+thunder_knuckle@Thunder God's Knuckledusters
+soul_eater@Soul Eater
+stiletto@Assassin's Stiletto
+frostfire_staff@
+axe_blight@Bonesplitter
+blight_sword@Cleaver of a Hundred Diseases
+flaming_sword@Flaming Sword
+enlightener@Illuminator
+frost_sword@Ice sword
+mace_frost@Ice Mace
+axe_frost@Ice Axe
+axe_berserk_2h@Berserker Poleaxe
+warpick@War Hammer
+mace_cursed@Cursed Mace
+skull_crusher@Skullcrusher
+butcher_cleaver@Butcher's Cleaver
+axe@Berserker Axe
+axe_headhunter@Marauder's Axe
+ghost_sword@Ghost Sword
+rupert_sword@Knight Rupert's Sword
+black_shuko@Black Bear's Paw
+shuko@Bear's Paw
+kris@Kris
+dagger_poisoned@Poisoned Dagger
+black_halberd_grind5@Sharpened Black Halberd Lvl 5
+halberd_grind5@Sharpened Halberd Lvl 5
+espadon_grind5@Sharpened Espadon Lvl 5
+claymore_black_grind5@Sharpened Black Claymore Lvl 5
+claymore_grind5@Sharpened Claymore Lvl 5
+black_scimitar_grind5@Sharpened Black Scimitar Lvl 5
+scimitar_grind5@Sharpened Scimitar Lvl 5
+katana_black_grind5@Sharpened Black Katana Lvl 5
+katana_grind5@Sharpened Katana Lvl 5
+kriegsmesser_grind5@Sharpened Kriegsmesser Lvl 5
+spear_grind5@Sharpened Bronze Spear
+Lvl 5
+rapier_grind5@Sharpened Smallsword Lvl 5
+ritterschwert_grind5@Sharpened Ritterschwert Lvl 5
+bastard_grind5@Sharpened Bastard Sword Lvl 5
+yataghan_grind5@Sharpened Yatagan Lvl 5
+falchion_killer_grind5@Sharpened Assassin Falchion Lvl 5
+falchion_grind5@Sharpened Falchion Lvl 5
+black_poleaxe_grind5@Sharpened Black Copper Poleaxe Lvl 5
+poleaxe_grind5@Sharpened Copper Poleaxe Lvl 5
+khopesh_grind5@Sharpened Khopesh Lvl 5
+sword_grind5@Sharpened One-Handed Sword Lvl 5
+jambia_grind5@Sharpened Jambiya Lvl 5
+sword_crusher_grind5@Sharpened Swordbreaker Lvl 5
+dagger_grind5@Sharpened Dagger Lvl 5
+sickle_grind5@Sharpened Sickle Lvl 5
+black_halberd_grind4@Sharpened Black Halberd Lvl 4
+black_halberd_grind3@Sharpened Black Halberd Lvl 3
+black_halberd_grind2@Sharpened Black Halberd Lvl 2
+black_halberd_grind1@Sharpened Black Halberd Lvl 1
+black_halberd@Black Halberd
+halberd_grind4@Sharpened Halberd Lvl 4
+halberd_grind3@Sharpened Halberd Lvl 3
+espadon_grind4@Sharpened Espadon Lvl 4
+espadon_grind3@Sharpened Espadon Lvl 3
+claymore_black_grind4@Sharpened Black Claymore Lvl 4
+claymore_black_grind3@Sharpened Black Claymore Lvl 3
+claymore_black_grind2@Sharpened Black Claymore Lvl 2
+claymore_black_grind1@Sharpened Black Claymore Lvl 1
+claymore_black@Black Claymore
+claymore_grind4@Sharpened Claymore Lvl 4
+claymore_grind3@Sharpened Claymore Lvl 3
+black_scimitar_grind4@Sharpened Black Scimitar Lvl 4
+black_scimitar_grind3@Sharpened Black Scimitar Lvl 3
+black_scimitar_grind2@Sharpened Black Scimitar Lvl 2
+black_scimitar_grind1@Sharpened Black Scimitar Lvl 1
+black_scimitar@Black Scimitar
+scimitar_grind4@Sharpened Scimitar Lvl 4
+scimitar_grind3@Sharpened Scimitar Lvl 3
+katana_black_grind4@Sharpened Black Katana Lvl 4
+katana_black_grind3@Sharpened Black Katana Lvl 3
+katana_black_grind2@Sharpened Black Katana Lvl 2
+katana_black_grind1@Sharpened Black Katana Lvl 1
+katana_black@Black Katana
+katana_grind4@Sharpened Katana Lvl 4
+katana_grind3@Sharpened Katana Lvl 3
+kriegsmesser_grind4@Sharpened Kriegsmesser Lvl 4
+kriegsmesser_grind3@Sharpened Kriegsmesser Lvl 3
+spear_grind4@Sharpened Bronze Spear
+Lvl 4
+spear_grind3@Sharpened Bronze Spear
+Lvl 3
+rapier_grind4@Sharpened Smallsword Lvl 4
+rapier_grind3@Sharpened Smallsword Lvl 3
+ritterschwert_grind4@Sharpened Ritterschwert Lvl 4
+ritterschwert_grind3@Sharpened Ritterschwert Lvl 3
+bastard_grind4@Sharpened Bastard Sword Lvl 4
+bastard_grind3@Sharpened Bastard Sword Lvl 3
+yataghan_grind4@Sharpened Yatagan Lvl 4
+yataghan_grind3@Sharpened Yatagan Lvl 3
+falchion_killer_grind4@Sharpened Assassin Falchion Lvl 4
+falchion_killer_grind3@Sharpened Assassin Falchion Lvl 3
+falchion_grind4@Sharpened Falchion Lvl 4
+falchion_grind3@Sharpened Falchion Lvl 3
+black_poleaxe_grind4@Sharpened Black Copper Poleaxe Lvl 4
+black_poleaxe_grind3@Sharpened Black Copper Poleaxe Lvl 3
+black_poleaxe_grind2@Sharpened Black Copper Poleaxe Lvl 2
+black_poleaxe_grind1@Sharpened Black Copper Poleaxe Lvl 1
+black_poleaxe@Black Copper Poleaxe
+poleaxe_grind4@Sharpened Copper Poleaxe Lvl 4
+poleaxe_grind3@Sharpened Copper Poleaxe Lvl 3
+strong_mace@Weighted Mace
+mace_soul@Bone Mace
+mace_durable@Durable spiked mace
+khopesh_grind4@Sharpened Khopesh Lvl 4
+khopesh_grind3@Sharpened Khopesh Lvl 3
+sword_grind4@Sharpened One-Handed Sword Lvl 4
+sword_grind3@Sharpened One-Handed Sword Lvl 3
+pitchfork_durable@Durable Pitchfork
+jambia_grind4@Sharpened Jambiya Lvl 4
+jambia_grind3@Sharpened Jambiya Lvl 3
+sword_crusher_grind4@Sharpened Swordbreaker Lvl 4
+sword_crusher_grind3@Sharpened Swordbreaker Lvl 3
+dagger_durable@Durable Dagger
+dagger_blight@Ritual Dagger
+dagger_frost@Frost Dagger
+dagger_grind4@Sharpened Dagger Lvl 4
+dagger_grind3@Sharpened Dagger Lvl 3
+sickle_grind4@Sharpened Sickle Lvl 4
+sickle_grind3@Sharpened Sickle Lvl 3
+temple_torch@Temple Torch
+hammer_durable@Durable Hammer
+strong_cudgel@Sturdy Club
+halberd_grind2@Sharpened Halberd Lvl 2
+halberd_grind1@Sharpened Halberd Lvl 1
+halberd@Halberd
+espadon_grind2@Sharpened Espadon Lvl 2
+espadon_grind1@Sharpened Espadon Lvl 1
+espadon@Espadon
+claymore_grind2@Sharpened Claymore Lvl 2
+claymore_grind1@Sharpened Claymore Lvl 1
+claymore@Claymore
+scimitar_grind2@Sharpened Scimitar Lvl 2
+scimitar_grind1@Sharpened Scimitar Lvl 1
+scimitar@Scimitar
+katana_grind2@Sharpened Katana Lvl 2
+katana_grind1@Sharpened Katana Lvl 1
+katana@Katana
+kriegsmesser_grind2@Sharpened Kriegsmesser Lvl 2
+kriegsmesser_grind1@Sharpened Kriegsmesser Lvl 1
+kriegsmesser@Kriegsmesser
+spear_grind2@Sharpened Bronze Spear
+Lvl 2
+spear_grind1@Sharpened Bronze Spear
+Lvl 1
+spear@Bronze Spear
+rapier_grind2@Sharpened Smallsword Lvl 2
+rapier_grind1@Sharpened Smallsword Lvl 1
+rapier@Smallsword
+ritterschwert_grind2@Sharpened Ritterschwert Lvl 2
+ritterschwert_grind1@Sharpened Ritterschwert Lvl 1
+ritterschwert@Ritterschwert
+bastard_grind2@Sharpened Bastard Sword Lvl 2
+bastard_grind1@Sharpened Bastard Sword Lvl 1
+bastard@Bastard Sword
+yataghan_grind2@Sharpened Yatagan Lvl 2
+yataghan_grind1@Sharpened Yatagan Lvl 1
+yataghan@Yatagan
+falchion_killer_grind2@Sharpened Assassin Falchion Lvl 2
+falchion_killer_grind1@Sharpened Assassin Falchion Lvl 1
+falchion_killer@Assassin Falchion
+falchion_grind2@Sharpened Falchion Lvl 2
+falchion_grind1@Sharpened Falchion Lvl 1
+falchion@Falchion
+pernach_novice@Novice Mace
+pernach@Flanged Mace
+poleaxe_grind2@Sharpened Copper Poleaxe Lvl 2
+poleaxe_grind1@Sharpened Copper Poleaxe Lvl 1
+poleaxe@Copper Poleaxe
+kamiz@Royal Mace
+morgenstern_novice@Exile's Morning Star
+morgenstern@Morning Star
+mace_aztec@Macuahuitl
+mace@Spiked Mace
+khopesh_grind2@Sharpened Khopesh Lvl 2
+khopesh_grind1@Sharpened Khopesh Lvl 1
+khopesh@Khopesh
+sword_grind2@Sharpened One-Handed Sword Lvl 2
+sword_grind1@Sharpened One-Handed Sword Lvl 1
+sword@One-handed Sword
+paddle@Oar
+pitchfork@Pitchfork
+markus_dagger@
+jambia_grind2@Sharpened Jambiya Lvl 2
+jambia_grind1@Sharpened Jambiya Lvl 1
+jambia@Jambiya
+sword_crusher_grind2@Sharpened Swordbreaker Lvl 2
+sword_crusher_grind1@Sharpened Swordbreaker Lvl 1
+sword_crusher@Swordbreaker
+dagger_grind2@Sharpened Dagger Lvl 2
+dagger_grind1@Sharpened Dagger Lvl 1
+dagger@Dagger
+shovel_monk@Combat Shovel
+shovel@Spade
+hammer@Smith's Hammer
+wooden_sword@Wooden Sword
+broom@Broom
+waggon_thill@Cart Thill
+sickle_grind2@Sharpened Sickle Lvl 2
+sickle_grind1@Sharpened Sickle Lvl 1
+sickle@Sickle
+torch@Torch
+hoe@Hoe
+cudgel@Club
+crossbow_crow@Raven Crossbow
+bow_blight@Bow of Decay
+flaming_bow@Bow of Searing Flame
+bow_frost@Ice Bow
+crossbow_heavy@Heavy Crossbow
+bow_composite_black@Black Composite Bow
+bow_composite@Composite Bow
+bow_bone@Bone Bow
+crossbow_light@Light Crossbow
+crossbow_simple@Simple Crossbow
+bow_simple@Simple Bow
+hatchet_bronze@Bronze Axe
+hatchet_artisan@Crafter's Stone Axe
+hatchet@Stone Axe
+pickaxe_bronze@Bronze Pickaxe
+pickaxe_artisan@Crafter's Stone Pick
+pickaxe@Stone Pick
+flaming_hammer_santa@
+wagenburg_gladiator_weapon@
+wagenburg_east_champion_weapon@
+wagenburg_templar_knight_weapon@
+wagenburg_black_knight_weapon@
+wagenburg_reaper_weapon@
+wagenburg_ice_bowman_weapon@
+wagenburg_dragon_crit_weapon@
+wagenburg_crossbowman_weapon@
+wagenburg_dread_warrior_weapon@
+wagenburg_duelist_weapon@
+wagenburg_warlock_weapon@
+wagenburg_snow_hunter_weapon@
+ancient_sepulchre_skeleton_archer_bow@
+ancient_sepulchre_friendly_archer_bow@
+flaming_bow_bot@
+skeleton_archer_bow_composite@
+skeleton_archer_bow_bone@
+black_halberd_bot@
+poleaxe_bot@
+frost_sword_bot@
+fist@Fists
+templar_berserk@
+torturer_dung@
+templar_gorh@
+templar_elite_1@
+templar_elite_3@
+templar_elite_4@
+ghost_sword_fake@
+servant_dagger@
+fire_spawn_claw@
+witch_spawn_claw@
+hangman_punisher_dung_claw@
+cruel_torturer_dung_claw@
+skeleton_boss_grave_guardian_weapon@
+sepulchre_skeleton_shield_axe@
+sepulchre_skeleton_shield_ghost_sword@
+sepulchre_smasher@
+talisman_revive_3_black_2@Excellent Black Talisman of the Will of Harat
+talisman_revive_3_black@Black Talisman of the Will of Harat
+talisman_revive_3@The Will of Harat
+talisman_shieldwall_3@The Light's Embrace
+talisman_crit_chance_3_black@Large Black Deadly Blow Talisman
+talisman_evasion_3_black@Large Black Evasion Talisman
+talisman_damage_phys_3_black@Large Black Strength Talisman
+talisman_absorb_phys_3_black@Large Black Defense Talisman
+talisman_absorb_phys_3@Large Defense Talisman
+talisman_absorb_freeze_3@Large Ice Defense Talisman
+talisman_absorb_fire_3@Large Fire Defense Talisman
+talisman_absorb_blight_3@Large Decay Defense Talisman
+talisman_crit_chance_2@Deadly Blow Talisman
+talisman_damage_phys_2@Strength Talisman
+talisman_damage_freeze_2@Ice Strength Talisman
+talisman_damage_fire_2@Fire Strength Talisman
+talisman_damage_blight_2@Decay Strength Talisman
+talisman_evasion_2@Evasion Talisman
+talisman_farm_wood_1@Small Lumberjack's Talisman
+talisman_farm_ore_1@Small Miner's Talisman
+talisman_farm_fiber_1@Small Harvester's Talisman
+talisman_farm_berry_1@Small Gatherer's Talisman
+shield_fire_black@Black Fiery Retribution Shield
+shield_fire@Fiery Retribution Shield
+shield_fear@Shield of Prophetic Nightmares
+shield_emperor@Emperor's Shield
+shield_poison@Damned Champion's Shield
+shield_templar@Templar Shield
+shield_frost@Ice Shield
+shield_gladiator@Gladiator Shield
+shield_stun@Stunning Shield
+shield_buckler@Buckler
+shield_black@Black Iron-shod Shield
+shield_heavy@Iron-shod Shield
+shield_light@Light Shield
+shield_compound@Composite Shield
+shield_leather@Leather Shield
+shield_wicker@Woven Shield
+wagenburg_templar_knight_shield@
+wagenburg_snow_hunter_shield@
+wagenburg_black_knight_shield@
+shield_heavy_templar@
+armor_bag@Forged Terror
+fear_bag@Pannier of Grim Shadows
+high_reward_bag@Luxury Grim Soul Pannier
+mid_reward_bag@Grim Soul Traveling Pannier
+low_reward_bag@Grim Soul Pannier
+master_hunter_bag@Master Hunter's Pannier
+snow_hunter_bag@Snow Hunter Pannier
+bird_bag@Winged Pannier
+spider_bag@Spider Pannier
+ironmaiden_bag@Iron Maiden
+merchant_bag@Wandering Merchant Pannier
+flaming_bag@Pannier of Living Fire
+cursed_lady_bag@Pannier of Perpetual Decay
+halt_bag@Fierce Freeze Pannier
+winter_bag@Northern Wolf Pannier
+plague_bag@Plague Doctor Pannier
+rogvold_bag@Ghostly Whisper Pannier
+piligrim_bag@Pilgrim Father Pannier
+bag_xmas@Christmas Pannier
+twilight_bag@Twilight Pannier
+backstab_bag@Pannier of Loyal Allies
+lute_bag@Lute Pannier
+east_bag@Luxury Pannier
+bear_bag@Bear Pannier
+book_bag@Bibliophile's Pannier
+backpack_black@Black Pannier
+backpack_violet@Mystic's Pannier
+backpack_red@Executioner's Pannier
+backpack_15@Leather Pannier
+traveller_bag@Traveler's Sack
+backpack_10@Leather Pack
+backpack_5@Ragged Sack
+thunderlord_hat@Storm Herald Helm
+thunderlord_shirt@Storm Herald Chest Plate
+thunderlord_gloves@Storm Herald Gauntlets
+thunderlord_pants@Storm Herald Chausses
+thunderlord_boots@Storm Herald Boots
+black_templar_hat@Black Templar Helm
+black_templar_shirt@Black Templar Armor
+black_templar_gloves@Black Templar Gloves
+black_templar_pants@Black Templar Chausses
+black_templar_boots@Black Templar Sabatons
+spikes_hat@Spiked Helmet
+spikes_shirt@Spiked Cuirass
+spikes_gloves@Spiked Gloves
+spikes_pants@Spiked Chausses
+spikes_boots@Spiked Sabatons
+snow_hunter_hat@Snow Hunter Hood
+snow_hunter_shirt@Snow Hunter Armor
+snow_hunter_gloves@Snow Hunter Gauntlets
+snow_hunter_pants@Snow Hunter Chausses
+snow_hunter_boots@Snow Hunter Boots
+gladiator_hat@Gladiator Helmet
+gladiator_shirt@Gladiator Armor
+gladiator_gloves@Gladiator Gauntlets
+gladiator_pants@Gladiator Greaves
+gladiator_boots@Gladiator Boots
+mourning_reaper_hat@Mourning Reaper's Mask
+mourning_reaper_shirt@Mourning Reaper's Robes
+mourning_reaper_gloves@Mourning Reaper's Gloves
+mourning_reaper_pants@Mourning Reaper's Trousers
+mourning_reaper_boots@Mourning Reaper's Boots
+scout_shirt@Scout's Armor
+scout_boots@Heavy Infantry Boots
+diplomat_hat@Imperial Jaeger Helmet
+diplomat_shirt@Imperial Jaeger Chest Plate
+diplomat_gloves@Imperial Jaeger Gloves
+diplomat_pants@Imperial Jaeger Chausses
+diplomat_boots@Imperial Jaeger Boots
+black_warrior_hat@Sinister Knight's Helmet
+black_warrior_shirt@Sinister Knight's Armor
+black_warrior_gloves@Sinister Knight's Gauntlets
+black_warrior_pants@Sinister Knight's Chausses
+black_warrior_boots@Sinister Knight's Boots
+dragon_hat@Sun Dragon Mask
+dragon_shirt@Lamellar Sun Dragon Chest Plate
+dragon_gloves@Sun Dragon Bracers
+dragon_pants@Sun Dragon Trousers
+dragon_boots@Sun Dragon Greaves
+bear_hat@Berserker Helm
+bear_shirt@Berserker Coat
+bear_gloves@Berserker Gloves
+bear_pants@Berserker Trousers
+bear_boots@Berserker Boots
+warlock_hat@Warlock's Mask
+warlock_shirt@Warlock's Robes
+warlock_gloves@Warlock's Gloves
+warlock_pants@Warlock's Trousers
+warlock_boots@Warlock's Boots
+plague_hat@Plague Doctor Mask
+plague_shirt@Plague Doctor Cape
+plague_gloves@Plague Doctor Gloves
+plague_pants@Plague Doctor Trousers
+plague_boots@Plague Doctor Boots
+xmas_hat@Christmas Hat
+xmas_shirt@Christmas Coat
+xmas_gloves@Christmas Mittens
+xmas_pants@Christmas Trousers
+xmas_boots@Christmas Boots
+executioner_hat@Executioner's Hood
+executioner_shirt@Executioner's Robe
+executioner_gloves@Executioner's Gloves
+executioner_pants@Executioner's Trousers
+executioner_boots@Executioner's Boots
+templar_hat@Templar Helm
+templar_shirt@Templar Armor
+templar_gloves@Templar Gloves
+templar_pants@Templar Chausses
+templar_boots@Templar Sabatons
+barbute_hat@Barbute
+brigant_hat@Tournament Helm
+brigant_shirt@Brigandine
+brigant_gloves@Brigandine Gloves
+brigant_pants@Brigandine Chausses
+brigant_boots@Chainmail Sabatons
+horned_hat@Horned Helmet
+scarlet_angel_hat@Guardian of Purity Mask
+scarlet_angel_shirt@Guardian of Purity Armor
+scarlet_angel_gloves@Guardian of Purity Gloves
+scarlet_angel_pants@Guardian of Purity Chausses
+scarlet_angel_boots@Guardian of Purity Boots
+ice_hat@Frost Helm
+ice_shirt@Frost Behter
+ice_gloves@Frost Gauntlets
+ice_pants@Frost Chausses
+ice_boots@Frost Boots
+black_scaly_hat@Black Great Helm
+black_scaly_shirt@Black Scale Armor
+black_scaly_gloves@Black Scale Gauntlets
+black_scaly_pants@Black Scale Chausses
+black_scaly_boots@Black Soldier's Boots
+noker_hat@Crows' Spy Helmet
+noker_shirt@Crows' Spy Armor
+noker_gloves@Crows' Spy Gloves
+noker_pants@Crows' Spy Chausses
+noker_boots@Crows' Spy Boots
+duelist_hat@Duelist's Helmet
+duelist_shirt@Duelist's Armor
+duelist_gloves@Duelist's Gloves
+duelist_pants@Duelist's Chausses
+duelist_boots@Duelist's Boots
+scaly_hat@Great Helm
+scaly_shirt@Scale Armor
+scaly_gloves@Scale Gauntlets
+scaly_pants@Scale Chausses
+scaly_boots@Soldier's Boots
+bechter_shirt@Mirror Chain Mail
+winter_hat_blue@Northern Wolf Helmet
+winter_shirt@Northern Wolf Armor
+winter_gloves@Northern Wolf Gauntlets
+winter_pants@Northern Wolf Pants
+winter_boots@Northern Wolf Boots
+east_champion_hat@Desert Hunter Helmet
+east_champion_shirt@Desert Hunter Armor
+east_champion_gloves@Desert Hunter Gloves
+east_champion_pants@Desert Hunter Chausses
+east_champion_boots@Desert Hunter Boots
+aventail_hat@Falves Helmet
+aventail_shirt@Falves Armor
+aventail_gloves@Falves Gloves
+aventail_pants@Falves Trousers
+aventail_boots@Falves Boots
+night_stalker_hat@Night Hunter Hood
+night_stalker_shirt@Night Hunter Coat
+night_stalker_gloves@Night Hunter Gloves
+night_stalker_pants@Night Hunter Trousers
+night_stalker_boots@Night Hunter Boots
+pumpkin_hat@Pumpkin Helmet
+keeper_hat@Ritual Mask
+chaperon_hat@Chaperon
+winter_hat@Winter Hat
+ailette_shirt@Hauberk with Ailettes
+chainscaly_hat@Pot Helm
+chainscaly_shirt@Bronze Hauberk
+chainscaly_gloves@Plated Chainmail Gloves
+chainscaly_pants@Bronze Chausses
+chainscaly_boots@Riveted Boots
+soldier_hat@Imperial Soldier's Helm
+soldier_shirt@Imperial Soldier's Hauberk
+soldier_gloves@Imperial Soldier's Gauntlets
+soldier_pants@Imperial Soldier's Chausses
+soldier_boots@Imperial Soldier's Boots
+chainmail_hat@Kettle Hat
+chainmail_shirt@Copper Hauberk
+chainmail_gloves@Chainmail Gauntlets
+chainmail_pants@Copper Chausses
+chainmail_boots@High Boots
+bard_hat@Bard's Hood
+bard_shirt@Bard's Shirt
+bard_gloves@Bard's Gloves
+bard_pants@Bard's Trousers
+bard_boots@Bard's Boots
+piligrim_hat@Pilgrim Hat
+piligrim_shirt@Pilgrim Shirt
+piligrim_gloves@Pilgrim Gloves
+piligrim_pants@Pilgrim Trousers
+piligrim_boots@Pilgrim Boots
+leather_hat@Hood
+doublet_shirt@Fencing Doublet
+leather_shirt@Gambeson
+leather_gloves@Leather Gloves
+leather_pants@Quilted Trousers
+pullen_boots@Leather Crakows
+leather_boots@Leather Boots
+citizen_hat@Royal Messenger's Cap
+citizen_shirt@Royal Messenger's Shirt
+citizen_gloves@Royal Messenger's Gauntlets
+citizen_pants@Royal Messenger's Trousers
+citizen_boots@Royal Messenger's Boots
+straw_hat@Straw Hat
+simple_hat@Bonnet Cap
+simple_shirt@Shirt
+simple_gloves@Ragged Mittens
+simple_pants@Ragged Trousers
+simple_boots@Ragged Boots
+storage_weapon@Weapons Shelf
+storage_armor@Armor Shelf
+storage_book@Bookshelf
+storage_food@Food Shelf
+storage_alchemy@Herbalist's Shelf
+storage_fuel@Woodpile
+storage_ore@Miner's Storage
+storage_tailor@Tailor's Shelf
+storage_mech@Inventor's Shelf
+chest_black_metal@Chest of Black Steel
+chest_coffin_hw25@Resplendent Coffin Chest
+chest_xmas_2024@Holiday Chest
+chest_blood@Sacrificial Chest
+chest_emerald@Emerald Chest
+chest_coffin_twilight@Magnificent Coffin Chest
+chest_coffin_hw23@Otherworldly Chest
+chest_grim_soul7@"Grim Soul" Chest
+chest_grim_soul6@"Grim Soul" Chest
+chest_grim_soul5@"Grim Soul" Chest
+chest_grim_soul3@"Grim Soul" Chest
+chest_grim_soul2@"Grim Soul" Chest
+chest_grim_soul@"Grim Soul" Chest
+chest_troubled@Chest of the Restless
+chest_cultist@Nameless Chest
+chest_harid@Harat's Chest
+chest_plague@Plague Chest
+chest_deer@Hunter Chest
+chest_stone@Ancient Stone Chest
+chest_lord@Noble's Chest
+chest_egypt@Tomb Chest
+chest_mutant@Living Chest
+chest_bone@Bone Chest
+chest_exquisite@Exquisite Chest
+chest_frost@Ice Chest
+chest_deadman@Dead Man's Chest
+chest_elegant@Elegant Chest
+chest_dungeon@Bronze Chest
+chest_coffin_hw@Coffin Chest
+chest_coffin@Coffin Chest
+chest_silver@Silver Chest
+chest_20@Merchant Chest
+chest_challenge@Scarlet Chest
+chest_15@Soldier's Chest
+chest_10@Peasant Chest
+firepit@Fire
+campfire@Campfire
+cropfield@Garden Bed
+furnace@Smelter
+well@Well
+rack_meat@Meat Dryer
+rack_leather@Tanning Rack
+workbench_stone@Stone-working Bench
+workbench_wood@Carpenter's Bench
+workbench_sew@Sewing Table
+workbench_nail@Workbench
+workbench_herb@Herbalist's Table
+workbench_grind@Grindstone
+workbench_alchemist@Alchemist's Table
+workbench_armor@Armorer's Repair Table
+workbench_weapon@Bladesmith's Repair Table
+workbench_mapmaker@Cartographer's Table
+blast_furnace@Blast Furnace
+ravencage@Raven Cage
+stall@Stable
+boat@Boat
+coach@Carriage
+waggon@Wagon
+torture_chair@Torture Chair
+strappado@Torture Rack
+rug@Mat
+guild_banner@Order Banner
+strongbox@Basement
+candlestick@Сandlestick
+dinner_table@Carved Dining Table
+spikes@Stakes
+chest_shared@Enchanted Chest
+altar@Altar
+scarecrow@Scarecrow
+bed@Gothic Bed
+fireplace@Hearth
+rack_weapon@Weapons Rack
+rack_weapon_elite@Conqueror's Throne
+chest_trophy@Trophy Spear
+kennel@Direwolf Pen
+kennel_cat@Cat House
+strongwall@
+rack_armor@Armor Stand
+rack_armor_elite@Deluxe Armor Stand
+throne_frozen@Frozen Throne
+xmas_tree@Christmas Tree
+tome01_page01@{0}, Scroll {1}
+tome01_page02@{0}, Scroll {1}
+tome01_page03@{0}, Scroll {1}
+tome01_page04@{0}, Scroll {1}
+tome01_page05@{0}, Scroll {1}
+tome01_page06@{0}, Scroll {1}
+tome01_page07@{0}, Scroll {1}
+tome01_page08@{0}, Scroll {1}
+tome01_page09@{0}, Scroll {1}
+tome01_page10@{0}, Scroll {1}
+tome01_page11@{0}, Scroll {1}
+tome01_page12@{0}, Scroll {1}
+tome01_page13@{0}, Scroll {1}
+tome01_page14@{0}, Scroll {1}
+tome01_page15@{0}, Scroll {1}
+tome01_page16@{0}, Scroll {1}
+tome02_page01@{0}, Scroll {1}
+tome02_page02@{0}, Scroll {1}
+tome02_page03@{0}, Scroll {1}
+tome02_page04@{0}, Scroll {1}
+tome02_page05@{0}, Scroll {1}
+tome02_page06@{0}, Scroll {1}
+tome02_page07@{0}, Scroll {1}
+tome02_page08@{0}, Scroll {1}
+tome02_page09@{0}, Scroll {1}
+tome02_page10@{0}, Scroll {1}
+tome02_page11@{0}, Scroll {1}
+tome02_page12@{0}, Scroll {1}
+tome02_page13@{0}, Scroll {1}
+tome02_page14@{0}, Scroll {1}
+tome02_page15@{0}, Scroll {1}
+tome02_page16@{0}, Scroll {1}
+tome02_page17@{0}, Scroll {1}
+tome02_page18@{0}, Scroll {1}
+tome02_page19@{0}, Scroll {1}
+tome02_page20@{0}, Scroll {1}
+tome02_page21@{0}, Scroll {1}
+tome02_page22@{0}, Scroll {1}
+tome03_page01@{0}, Scroll {1}
+tome03_page02@{0}, Scroll {1}
+tome03_page03@{0}, Scroll {1}
+tome03_page04@{0}, Scroll {1}
+tome03_page05@{0}, Scroll {1}
+tome03_page06@{0}, Scroll {1}
+tome03_page07@{0}, Scroll {1}
+tome04_page01@{0}, Scroll {1}
+tome04_page02@{0}, Scroll {1}
+tome04_page03@{0}, Scroll {1}
+tome04_page04@{0}, Scroll {1}
+tome04_page05@{0}, Scroll {1}
+tome04_page06@{0}, Scroll {1}
+tome04_page07@{0}, Scroll {1}
+tome04_page08@{0}, Scroll {1}
+tome04_page09@{0}, Scroll {1}
+tome04_page10@{0}, Scroll {1}
+tome04_page11@{0}, Scroll {1}
+tome04_page12@{0}, Scroll {1}
+tome04_page13@{0}, Scroll {1}
+tome04_page14@{0}, Scroll {1}
+tome04_page15@{0}, Scroll {1}
+tome04_page16@{0}, Scroll {1}
+tome04_page17@{0}, Scroll {1}
+tome04_page18@{0}, Scroll {1}
+tome04_page19@{0}, Scroll {1}
+tome04_page20@{0}, Scroll {1}
+tome04_page21@{0}, Scroll {1}
+tome04_page22@{0}, Scroll {1}
+tome04_page23@{0}, Scroll {1}
+tome04_page24@{0}, Scroll {1}
+tome04_page25@{0}, Scroll {1}
+tome04_page26@{0}, Scroll {1}
+tome04_page27@{0}, Scroll {1}
+tome04_page28@{0}, Scroll {1}
+tome04_page29@{0}, Scroll {1}
+tome04_page30@{0}, Scroll {1}
+tome04_page31@{0}, Scroll {1}
+tome04_page32@{0}, Scroll {1}
+tome04_page33@{0}, Scroll {1}
+tome04_page34@{0}, Scroll {1}
+tome04_page35@{0}, Scroll {1}
+tome04_page36@{0}, Scroll {1}
+tome04_page37@{0}, Scroll {1}
+tome04_page38@{0}, Scroll {1}
+tome04_page39@{0}, Scroll {1}
+tome04_page40@{0}, Scroll {1}
+tome04_page41@{0}, Scroll {1}
+tome04_page42@{0}, Scroll {1}
+tome04_page43@{0}, Scroll {1}
+tome04_page44@{0}, Scroll {1}
+tome04_page45@{0}, Scroll {1}
+tome04_page46@{0}, Scroll {1}
+tome05_page01@{0}, Scroll {1}
+tome05_page02@{0}, Scroll {1}
+tome05_page03@{0}, Scroll {1}
+tome05_page04@{0}, Scroll {1}
+tome05_page05@{0}, Scroll {1}
+tome05_page06@{0}, Scroll {1}
+tome05_page07@{0}, Scroll {1}
+tome05_page08@{0}, Scroll {1}
+tome05_page09@{0}, Scroll {1}
+tome05_page10@{0}, Scroll {1}
+tome05_page11@{0}, Scroll {1}
+tome05_page12@{0}, Scroll {1}
+tome05_page13@{0}, Scroll {1}
+tome05_page14@{0}, Scroll {1}
+tome06_page01@{0}, Scroll {1}
+tome06_page02@{0}, Scroll {1}
+tome06_page03@{0}, Scroll {1}
+tome07_page01@{0}, Scroll {1}
+tome07_page02@{0}, Scroll {1}
+tome07_page03@{0}, Scroll {1}
+tome07_page04@{0}, Scroll {1}
+tome07_page05@{0}, Scroll {1}
+tome07_page06@{0}, Scroll {1}
+tome07_page07@{0}, Scroll {1}
+tome07_page08@{0}, Scroll {1}
+tome07_page09@{0}, Scroll {1}
+tome07_page10@{0}, Scroll {1}
+tome07_page11@{0}, Scroll {1}
+tome07_page12@{0}, Scroll {1}
+tome07_page13@{0}, Scroll {1}
+tome07_page14@{0}, Scroll {1}
+tome07_page15@{0}, Scroll {1}
+tome07_page16@{0}, Scroll {1}
+tome07_page17@{0}, Scroll {1}
+tome08_page01@{0}, Scroll {1}
+tome08_page02@{0}, Scroll {1}
+tome08_page03@{0}, Scroll {1}
+tome08_page04@{0}, Scroll {1}
+tome08_page05@{0}, Scroll {1}
+tome08_page06@{0}, Scroll {1}
+tome08_page07@{0}, Scroll {1}
+tome08_page08@{0}, Scroll {1}
+tome08_page09@{0}, Scroll {1}
+tome08_page10@{0}, Scroll {1}
+tome08_page11@{0}, Scroll {1}
+tome08_page12@{0}, Scroll {1}
+tome08_page13@{0}, Scroll {1}
+tome09_page01@{0}, Scroll {1}
+tome09_page02@{0}, Scroll {1}
+tome09_page03@{0}, Scroll {1}
+tome09_page04@{0}, Scroll {1}
+tome09_page05@{0}, Scroll {1}
+tome10_page01@{0}, Scroll {1}
+tome10_page02@{0}, Scroll {1}
+tome10_page03@{0}, Scroll {1}
+tome10_page04@{0}, Scroll {1}
+tome11_page01@{0}, Scroll {1}
+tome11_page02@{0}, Scroll {1}
+tome11_page03@{0}, Scroll {1}
+tome11_page04@{0}, Scroll {1}
+tome11_page05@{0}, Scroll {1}
+tome11_page06@{0}, Scroll {1}
+tome11_page07@{0}, Scroll {1}
+tome11_page08@{0}, Scroll {1}
+tome11_page09@{0}, Scroll {1}
+tome11_page10@{0}, Scroll {1}
+tome12_page01@{0}, Scroll {1}
+tome12_page02@{0}, Scroll {1}
+tome12_page03@{0}, Scroll {1}
+tome12_page04@{0}, Scroll {1}
+tome12_page05@{0}, Scroll {1}
+tome12_page06@{0}, Scroll {1}
+tome12_page07@{0}, Scroll {1}
+tome12_page08@{0}, Scroll {1}
+tome12_page09@{0}, Scroll {1}
+tome12_page10@{0}, Scroll {1}
+tome12_page11@{0}, Scroll {1}
+tome12_page12@{0}, Scroll {1}
+tome12_page13@{0}, Scroll {1}
+tome12_page14@{0}, Scroll {1}
+tome13_page01@{0}, Scroll {1}
+tome13_page02@{0}, Scroll {1}
+tome13_page03@{0}, Scroll {1}
+tome13_page04@{0}, Scroll {1}
+tome14_page01@{0}, Scroll {1}
+tome14_page02@{0}, Scroll {1}
+tome14_page03@{0}, Scroll {1}
+tome14_page04@{0}, Scroll {1}
+tome14_page05@{0}, Scroll {1}
+tome14_page06@{0}, Scroll {1}
+tome15_page01@{0}, Scroll {1}
+tome15_page02@{0}, Scroll {1}
+tome15_page03@{0}, Scroll {1}
+tome15_page04@{0}, Scroll {1}
+tome15_page05@{0}, Scroll {1}
+tome15_page06@{0}, Scroll {1}
+tome15_page07@{0}, Scroll {1}
+tome15_page08@{0}, Scroll {1}
+tome15_page09@{0}, Scroll {1}
+tome15_page10@{0}, Scroll {1}
+tome15_page11@{0}, Scroll {1}
+tome15_page12@{0}, Scroll {1}
+tome16_page01@{0}, Scroll {1}
+tome16_page02@{0}, Scroll {1}
+tome16_page03@{0}, Scroll {1}
+tome16_page04@{0}, Scroll {1}
+tome16_page05@{0}, Scroll {1}
+tome16_page06@{0}, Scroll {1}
+tome16_page07@{0}, Scroll {1}
+tome16_page08@{0}, Scroll {1}
+tome16_page09@{0}, Scroll {1}
+tome17_page01@{0}, Scroll {1}
+tome17_page02@{0}, Scroll {1}
+tome17_page03@{0}, Scroll {1}
+tome17_page04@{0}, Scroll {1}
+tome18_page01@{0}, Scroll {1}
+tome18_page02@{0}, Scroll {1}
+tome18_page03@{0}, Scroll {1}
+tome18_page04@{0}, Scroll {1}
+tome18_page05@{0}, Scroll {1}
+tome18_page06@{0}, Scroll {1}
+tome18_page07@{0}, Scroll {1}
+tome18_page08@{0}, Scroll {1}
+tome18_page09@{0}, Scroll {1}
+tome18_page10@{0}, Scroll {1}
+tome18_page11@{0}, Scroll {1}
+tome18_page12@{0}, Scroll {1}
+tome19_page01@{0}, Scroll {1}
+tome19_page02@{0}, Scroll {1}
+tome19_page03@{0}, Scroll {1}
+tome19_page04@{0}, Scroll {1}
+tome19_page05@{0}, Scroll {1}
+tome19_page06@{0}, Scroll {1}
+tome19_page07@{0}, Scroll {1}
+tome19_page08@{0}, Scroll {1}
+tome19_page09@{0}, Scroll {1}
+tome20_page01@{0}, Scroll {1}
+tome20_page02@{0}, Scroll {1}
+tome20_page03@{0}, Scroll {1}
+tome20_page04@{0}, Scroll {1}
+tome20_page05@{0}, Scroll {1}
+tome21_page01@{0}, Scroll {1}
+tome21_page02@{0}, Scroll {1}
+tome21_page03@{0}, Scroll {1}
+tome21_page04@{0}, Scroll {1}
+tome21_page05@{0}, Scroll {1}
+tome21_page06@{0}, Scroll {1}
+tome21_page07@{0}, Scroll {1}
+tome21_page08@{0}, Scroll {1}
+tome21_page09@{0}, Scroll {1}
+tome22_page01@{0}, Scroll {1}
+tome22_page02@{0}, Scroll {1}
+tome22_page03@{0}, Scroll {1}
+tome22_page04@{0}, Scroll {1}
+tome22_page05@{0}, Scroll {1}
+tome22_page06@{0}, Scroll {1}
+tome22_page07@{0}, Scroll {1}
+tome22_page08@{0}, Scroll {1}
+tome22_page09@{0}, Scroll {1}
+tome22_page10@{0}, Scroll {1}
+tome22_page11@{0}, Scroll {1}
+tome22_page12@{0}, Scroll {1}
+tome22_page13@{0}, Scroll {1}
+research_for_hatchet_artisan@Crafter's Stone Axe Design
+research_for_pickaxe_artisan@Crafter's Stone Pick Design
+research_for_strong_cudgel@Sturdy Club Design
+research_for_citizen_hat@Royal Messenger's Cap Design
+research_for_citizen_shirt@Royal Messenger's Shirt Design
+research_for_citizen_gloves@Royal Messenger's Gauntlets Design
+research_for_citizen_pants@Royal Messenger's Trousers Design
+research_for_citizen_boots@Royal Messenger's Boots Design
+research_for_straw_hat@Straw Hat Design
+research_for_broom@Broom Design
+research_for_wooden_sword@Wooden Sword Design
+research_for_shovel_monk@Combat Shovel Design
+research_for_sword_crusher@Swordbreaker Design
+research_for_jambia@Jambiya Design
+research_for_khopesh@Khopesh Design
+research_for_night_stalker_hat@Night Hunter Hood Design
+research_for_night_stalker_shirt@Night Hunter Coat Design
+research_for_night_stalker_gloves@Night Hunter Gloves Design
+research_for_night_stalker_pants@Night Hunter Trousers Design
+research_for_night_stalker_boots@Night Hunter Boots Design
+research_for_piligrim_hat@Pilgrim Hat Design
+research_for_piligrim_shirt@Pilgrim Shirt Design
+research_for_piligrim_gloves@Pilgrim Gloves Design
+research_for_piligrim_pants@Pilgrim Trousers Design
+research_for_piligrim_boots@Pilgrim Boots Design
+research_for_bard_hat@Bard's Hood Design
+research_for_bard_shirt@Bard's Shirt Design
+research_for_bard_gloves@Bard's Gloves Design
+research_for_bard_pants@Bard's Trousers Design
+research_for_bard_boots@Bard's Boots Design
+research_for_chaperon_hat@Chaperon Design
+research_for_doublet_shirt@Fencing Doublet Design
+research_for_pullen_boots@Leather Crakows Design
+research_for_executioner_hat@Executioner's Hood Design
+research_for_executioner_shirt@Executioner's Robe Design
+research_for_executioner_gloves@Executioner's Gloves Design
+research_for_executioner_pants@Executioner's Trousers Design
+research_for_executioner_boots@Executioner's Boots Design
+research_for_mace_aztec@Macuahuitl Design
+research_for_strong_mace@Weighted Mace Design
+research_for_workbench_grind@Grindstone Design
+research_for_workbench_mapmaker@Cartographer's Table Design
+research_for_kamiz@Royal Mace Design
+research_for_morgenstern_novice@Exile's Morning Star Design
+research_for_poleaxe@Copper Poleaxe Design
+research_for_workbench_armor@Armorer's Repair Table Design
+research_for_workbench_weapon@Bladesmith's Repair Table Design
+research_for_pernach_novice@Novice Mace Design
+research_for_soldier_hat@Imperial Soldier's Helm Design
+research_for_soldier_shirt@Imperial Soldier's Hauberk Design
+research_for_soldier_gloves@Imperial Soldier's Gauntlets Design
+research_for_soldier_pants@Imperial Soldier's Chausses Design
+research_for_soldier_boots@Imperial Soldier's Boots Design
+research_for_ailette_shirt@Hauberk with Ailettes Design
+research_for_aventail_hat@Falves Helmet Design
+research_for_aventail_shirt@Falves Armor Design
+research_for_aventail_gloves@Falves Gloves Design
+research_for_aventail_pants@Falves Trousers Design
+research_for_aventail_boots@Falves Boots Design
+research_for_plague_hat@Plague Doctor Mask Design
+research_for_plague_shirt@Plague Doctor Cape Design
+research_for_plague_gloves@Plague Doctor Gloves Design
+research_for_plague_pants@Plague Doctor Pants Design
+research_for_plague_boots@Plague Doctor Boots Design
+research_for_warlock_hat@Warlock's Mask Design
+research_for_warlock_shirt@Warlock's Robes Design
+research_for_warlock_gloves@Warlock's Gloves Design
+research_for_warlock_pants@Warlock's Trousers Design
+research_for_warlock_boots@Warlock's Boots Design
+research_for_bear_hat@Berserker Helm Design
+research_for_bear_shirt@Berserker Coat Design
+research_for_bear_gloves@Berserker Gloves Design
+research_for_bear_pants@Berserker Trousers Design
+research_for_bear_boots@Berserker Boots Design
+research_for_torture_chair@Torture Chair Design
+research_for_yataghan@Yatagan Design
+research_for_falchion_killer@Assassin Falchion Design
+research_for_east_champion_hat@Desert Hunter Helmet Design
+research_for_east_champion_shirt@Desert Hunter Armor Design
+research_for_east_champion_gloves@Desert Hunter Gloves Design
+research_for_east_champion_pants@Desert Hunter Chausses Design
+research_for_east_champion_boots@Desert Hunter Boots Design
+research_for_bechter_shirt@Mirror Chain Mail Design
+research_for_mourning_reaper_hat@Mourning Reaper's Mask Design
+research_for_mourning_reaper_shirt@Mourning Reaper's Robes Design
+research_for_mourning_reaper_gloves@Mourning Reaper's Gloves Design
+research_for_mourning_reaper_pants@Mourning Reaper's Trousers Design
+research_for_mourning_reaper_boots@Mourning Reaper's Boots Design
+research_for_dragon_hat@Sun Dragon Mask Design
+research_for_dragon_shirt@Sun Dragon Chest Plate Design
+research_for_dragon_gloves@Sun Dragon Bracers Design
+research_for_dragon_pants@Sun Dragon Trousers Design
+research_for_dragon_boots@Sun Dragon Greaves Design
+research_for_thunderlord_hat@Storm Herald Helm Design
+research_for_thunderlord_shirt@Storm Herald Chest Plate Design
+research_for_thunderlord_gloves@Storm Herald Gauntlets Design
+research_for_thunderlord_pants@Storm Herald Chausses Design
+research_for_thunderlord_boots@Storm Herald Boots Design
+research_for_snow_hunter_hat@Snow Hunter Hood Design
+research_for_snow_hunter_shirt@Snow Hunter Armor Design
+research_for_snow_hunter_gloves@Snow Hunter Gauntlets Design
+research_for_snow_hunter_pants@Snow Hunter Chausses Design
+research_for_snow_hunter_boots@Snow Hunter Boots Design
+research_for_strappado@Torture Rack Design
+research_for_workbench_alchemist@Alchemist's Table Design
+research_for_ritterschwert@Ritterschwert Design
+research_for_rapier@Smallsword Design
+research_for_spear@Bronze Spear Design
+research_for_kriegsmesser@Kriegsmesser Design
+research_for_katana@Katana Design
+research_for_diplomat_hat@Imperial Jaeger Helmet Design
+research_for_diplomat_shirt@Imperial Jaeger Chest Plate Design
+research_for_diplomat_gloves@Imperial Jaeger Gloves Design
+research_for_diplomat_pants@Imperial Jaeger Chausses Design
+research_for_diplomat_boots@Imperial Jaeger Boots Design
+research_for_black_warrior_hat@Sinister Knight's Helmet Design
+research_for_black_warrior_shirt@Sinister Knight's Armor Design
+research_for_black_warrior_gloves@Sinister Knight's Gauntlets Design
+research_for_black_warrior_pants@Sinister Knight's Chausses Design
+research_for_black_warrior_boots@Sinister Knight's Boots Design
+research_for_duelist_hat@Duelist's Helmet Design
+research_for_duelist_shirt@Duelist's Armor Design
+research_for_duelist_gloves@Duelist's Gloves Design
+research_for_duelist_pants@Duelist's Chausses Design
+research_for_duelist_boots@Duelist's Boots Design
+research_for_noker_hat@Crows' Spy Helmet Design
+research_for_noker_shirt@Crows' Spy Armor Design
+research_for_noker_gloves@Crows' Spy Gloves Design
+research_for_noker_pants@Crows' Spy Chausses Design
+research_for_noker_boots@Crows' Spy Boots Design
+research_for_horned_hat@Horned Helmet Design
+research_for_shield_heavy@Iron-shod Shield Design
+research_for_piligrim_bag@Pilgrim Father Pannier Design
+research_for_barbute_hat@Barbute Design
+research_for_shield_buckler@Buckler Design
+research_for_crossbow_heavy@Heavy Crossbow Design
+research_for_rack_weapon@Weapons Rack Design
+research_for_bomb@Powder Bomb Design
+research_for_rack_armor@Armor Stand Design
+research_for_chest_shared@Enchanted Chest Design
+research_for_flaming_bag@Pannier of Living Fire Design
+research_for_halt_bag@Fierce Freeze Pannier Design
+research_for_cursed_lady_bag@Pannier of Perpetual Decay Design
+research_for_rogvold_bag@Ghostly Whisper Pannier Design
+research_for_blast_furnace@Blast Furnace Design
+research_for_ironmaiden_bag@Iron Maiden Pannier Design
+research_for_axe_berserk_2h@Berserker Poleaxe Design
+research_for_spikes_hat@Spiked Helmet Design
+research_for_spikes_shirt@Spiked Cuirass Design
+research_for_spikes_gloves@Spiked Gloves Design
+research_for_spikes_pants@Spiked Chausses Design
+research_for_spikes_boots@Spiked Sabatons Design
